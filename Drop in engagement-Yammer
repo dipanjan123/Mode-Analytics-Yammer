@@ -1,0 +1,11 @@
+Here is an analysis of the reasons for drop in engagement in Yammer during end August, early September 2014.
+I have executed several queries for the analysis.
+I have suggested couple of possible rectification steps:
+  1. Look at the email functionality
+  2. There is possibly some issue with the mobile application
+
+The project is available at :
+https://modeanalytics.com/editor/dbandy/reports/6d2a01e4f437
+
+The problem definition is available at :
+https://community.modeanalytics.com/sql/tutorial/a-drop-in-user-engagement/
